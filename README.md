@@ -1,6 +1,10 @@
 # test_text_collision_leaflet
 test_text_collision_leaflet
 
+Demo: <a href="https://soiqualang.github.io/label_collision_leaflet_v2/">https://soiqualang.github.io/label_collision_leaflet_v2/</a>
+
+***
+
 Ex: https://github.com/soiqualang/Leaflet.LabelTextCollision/blob/master/dist/L.LabelTextCollision.js
 
 @NguyenDucLam
