@@ -63,19 +63,12 @@ var view_cong_hientrang_geo = new L.GeoJSON.AJAX(view_cong_hientrang_geo_url, {
 	}
 });
 
-var i = 0;
-view_cong_hientrang_geo.eachLayer(function(label){
-	label.added = true;
-	addLabel(label, i);
-	i++;
-});
 view_cong_hientrang_geo.addTo(map);
 
 map.on("zoomend", function(){
   resetLabels(view_cong_hientrang_geo);
 });
 
-//var cover = document.getElementById("cover");
 resetLabels(view_cong_hientrang_geo);
 
 function resetLabels(markers) {
