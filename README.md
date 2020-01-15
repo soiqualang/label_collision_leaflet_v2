@@ -1,7 +1,7 @@
 # test_text_collision_leaflet
 test_text_collision_leaflet
 
-Demo: <a href="https://soiqualang.github.io/label_collision_leaflet_v2/" target="_blank">https://soiqualang.github.io/label_collision_leaflet_v2/</a>
+Demo: <a href="https://soiqualang.github.io/label_collision_leaflet_v2/t2.html">https://soiqualang.github.io/label_collision_leaflet_v2/t2.html</a>
 
 ***
 
