@@ -7,13 +7,13 @@ Demo: <a href="https://soiqualang.github.io/label_collision_leaflet_v2/" target=
 
 Ex: https://github.com/soiqualang/Leaflet.LabelTextCollision/blob/master/dist/L.LabelTextCollision.js
 
-@NguyenDucLam
+Thanks @NguyenDucLam found this repo
 
 https://geovation.github.io/labelgun/examples/leaflet/index.html
 
 > file t1.html
 
-https://soiqualang.github.io/label_collision_leaflet_v2/t1.html
+<a href="https://soiqualang.github.io/label_collision_leaflet_v2/t1.html">https://soiqualang.github.io/label_collision_leaflet_v2/t1.html</a>
 
 <img src="h1.png" width="50%">
 
@@ -21,6 +21,6 @@ https://soiqualang.github.io/label_collision_leaflet_v2/t1.html
 
 > file t2.html
 
-https://soiqualang.github.io/label_collision_leaflet_v2/t2.html
+<a href="https://soiqualang.github.io/label_collision_leaflet_v2/t2.html">https://soiqualang.github.io/label_collision_leaflet_v2/t2.html</a>
 
 <img src="h3.png" width="50%">
