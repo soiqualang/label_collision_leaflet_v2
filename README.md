@@ -9,6 +9,8 @@ https://geovation.github.io/labelgun/examples/leaflet/index.html
 
 > file t1.html
 
+https://soiqualang.github.io/label_collision_leaflet_v2/t1.html
+
 <img src="h1.png" width="50%">
 
 <img src="h2.png" width="50%">
