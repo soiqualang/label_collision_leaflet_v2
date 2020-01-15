@@ -21,4 +21,6 @@ https://soiqualang.github.io/label_collision_leaflet_v2/t1.html
 
 > file t2.html
 
+https://soiqualang.github.io/label_collision_leaflet_v2/t2.html
+
 <img src="h3.png" width="50%">
