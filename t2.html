@@ -67,23 +67,22 @@ var view_cong_hientrang_geo = new L.GeoJSON.AJAX(view_cong_hientrang_geo_url, {
 
 view_cong_hientrang_geo.addTo(map);
 
+view_cong_hientrang_geo.on('data:loaded', function () {
+  resetLabels(view_cong_hientrang_geo);
+});
+
 
 map.on("zoomend", function(){
   resetLabels(view_cong_hientrang_geo);
 });
 
 
-var callBack = function () {
-    console.log("Map successfully loaded");
-    resetLabels(view_cong_hientrang_geo);
-};
-map.whenReady(callBack);
-
 setTimeout(function () {
   //map.setZoom(12);
-  resetLabels(view_cong_hientrang_geo);
+  //resetLabels(view_cong_hientrang_geo);
 }, 1000)
 
+/* =========================================================== */
 
 function resetLabels(markers) {
   var i = 0;
