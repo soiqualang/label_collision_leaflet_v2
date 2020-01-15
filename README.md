@@ -7,7 +7,7 @@ Demo: <a href="https://soiqualang.github.io/label_collision_leaflet_v2/" target=
 
 Ex: https://github.com/soiqualang/Leaflet.LabelTextCollision/blob/master/dist/L.LabelTextCollision.js
 
-Thanks @NguyenDucLam found this repo
+Thanks <a href="https://github.com/NguyenDucLam">@NguyenDucLam</a> found this repo
 
 https://geovation.github.io/labelgun/examples/leaflet/index.html
 
