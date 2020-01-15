@@ -1,36 +1,5 @@
 html,body,#map { margin: 0; height: 100%; width: 100%; }
 
-/* .labelstyle {
-    all: revert;
-  color: green;
-  font-size:14px;
-  font-weight: 700;
-  fillColor: none;
-  fillOpacity: 0;
-  background-color: none;
-  border-color: none;
-  background: none;
-  border: none;
-  box-shadow: none;
-  margin: 0px;
-  cursor: none;
-  direction: 'center';
-  interactive: false;
-  fill: false;
-} */
-
-/* Ghi đè CSS tooltip */
-
-.leaflet-tooltip {
-    background-color: #fff0 !important;
-    border: none !important;
-    white-space: nowrap !important;
-    pointer-events: none !important;
-    box-shadow: none !important;
-}
-
-
-
 /******************* style chung cho map************************ */
 .mouse_pointer{
     cursor: pointer;
@@ -38,7 +7,7 @@ html,body,#map { margin: 0; height: 100%; width: 100%; }
 /********************************************/
 
 /********************** view_cong_hientrang_geo ********************* */
-.cong_label{
+.leaflet-tooltip.cong_label{
     font-family: Roboto, Arial, sans-serif;
     color:#912222;
     text-shadow:  -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
@@ -47,8 +16,11 @@ html,body,#map { margin: 0; height: 100%; width: 100%; }
     position: relative;
 	display: inline-block;
     white-space: nowrap;
-    top: -20px;
-    left: 0px;
+    top: -35px;
+    left: -14px;
+	background-color: transparent;
+  border: transparent;
+  box-shadow: none;
 }
 .cong_symbol{
     color: #912222;
@@ -57,22 +29,11 @@ html,body,#map { margin: 0; height: 100%; width: 100%; }
     /* text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);  */
 
 }
-
-/* Style cống cố định view_cong_hientrang_geo */
-/* .cong_pin{
-    color: rgb(103, 255, 255);
-
-} */
-/* .cong_label{
-    font-family: Roboto, Arial, sans-serif;
-    color:rgb(32, 32, 32);
-    text-shadow: 1px 1px 2px #ffffff;
-    font-size:11px;
-    text-align:center;
-    top: -36px;
-    left: -22px;
-} */
 /********************************************/
+
+.icon-circles{
+	
+}
 
 /********************** view_trambom_hientrang_geo ********************* */
 .trambom_label{
@@ -318,7 +279,20 @@ html,body,#map { margin: 0; height: 100%; width: 100%; }
     position: relative;
 }
 
+/* Style cống cố định view_cong_hientrang_geo */
+.cong_pin{
+    color: rgb(103, 255, 255);
 
+}
+.cong_label{
+    font-family: Roboto, Arial, sans-serif;
+    color:rgb(32, 32, 32);
+    text-shadow: 1px 1px 2px #ffffff;
+    font-size:11px;
+    text-align:center;
+    top: -36px;
+    left: -22px;
+}
 
 
 
@@ -432,3 +406,18 @@ html,body,#map { margin: 0; height: 100%; width: 100%; }
     background: #3f51b5 !important;
     color: #fff !important;
 }
+
+
+ #cover {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 100%;
+        opacity: 0.93;
+        text-align: center;
+        font-family: sans-serif;
+        background-color: #3e3e3e;
+        color: white;
+        z-index: 100000;
+      }

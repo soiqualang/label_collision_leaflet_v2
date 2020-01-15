@@ -1,19 +1,14 @@
-<!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/leaflet.css">
 <link rel="stylesheet" type="text/css" href="css/map.css">
 <link rel="stylesheet" type="text/css" href="css/fontawesome/styles.min.css">
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css">
-<script src="https://unpkg.com/rbush@2.0.1/rbush.min.js"></script>
-<script src="https://unpkg.com/labelgun@6.0.0/lib/labelgun.min.js"></script>
-<script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
-	
+
 <script src="js/jquery-1.9.1.js"></script>
 <script src="js/bootstrap.min.js"></script>
+
 <script src="js/leaflet/leaflet.js"></script>
 <script src="js/leaflet/leaflet.ajax.js"></script>
 </head>
@@ -21,32 +16,20 @@
 <div id="map"></div>
 <script>
 
-var map = L.map('map',{
-	layers: [],
-	center: new L.LatLng(10.1323395,106.5192586),
-	zoom: 11,
-});
-
+map = L.map('map').setView([10.1323395,106.5192586], 11);
 var tilemap_srv='http://girs.vn:8081/geoserver15/gwc/service/tms/1.0.0/thuyloibentre%3Athuyloibentre_bandonen_group@EPSG%3A900913@png/{z}/{x}/{-y}.png';
 
 L.tileLayer(tilemap_srv, {
     attribution: 'Map tiles by <a href="http://thuyloibentre.com" target="_blank">thuyloibentre.com</a>.'
 }).addTo(map);
 
-var hideLabel = function(label){ label.labelObject.style.opacity = 0;};
-var showLabel = function(label){ label.labelObject.style.opacity = 1;};
-labelEngine = new labelgun.default(hideLabel, showLabel);
 
-//var id = 0;
-//var labels = [];
-	
-//Add the markers to the map
-var view_cong_hientrang_geo_url='view_cong_hientrang_geo.json';	
-var view_cong_hientrang_geo = new L.GeoJSON.AJAX(view_cong_hientrang_geo_url, {
+var view_cong_hientrang_geo_url='view_cong_hientrang_geo.json';
+var view_cong_hientrang_geo= new L.GeoJSON.AJAX(view_cong_hientrang_geo_url, {
 	pointToLayer: function (feat, latlng) {
 		return L.marker(latlng, {
 			icon: L.divIcon({
-				//html: "<span class='cong_label'><b>" + feat.properties.ten + "</b></span>",//style của label 
+				html: "<span class='cong_label'><b>" + feat.properties.ten + "</b></span>",//style của label 
 				popupAnchor: [0, 0],
 				iconAnchor: [8, 8],
 				className: 'mouse_pointer fa fa-circle cong_symbol' //style của pin
@@ -56,69 +39,17 @@ var view_cong_hientrang_geo = new L.GeoJSON.AJAX(view_cong_hientrang_geo_url, {
 			clickable: true,
 			fid: feat.properties.maso,
 			fname: feat.properties.ten,
-			tblname: 'view_cong_hientrang_geo',
-			permanent: true,
-		}).bindTooltip(feat.properties.ten, {permanent: true, direction: "center", opacity: 0.01}).openTooltip();	
+			tblname: 'view_cong_hientrang_geo'
+		}).on('click', function (e) {
+			var fid = (e.sourceTarget.options.fid);
+			var fname = (e.sourceTarget.options.fname);
+			var tblname = (e.sourceTarget.options.tblname);
+			var lat = e.latlng.lat;
+			var lon = e.latlng.lng;
+		});
 	}
 });
-var i = 0;
-view_cong_hientrang_geo.eachLayer(function(label){
-	label.added = true;
-	addLabel(label, i);
-	i++;
-});
 view_cong_hientrang_geo.addTo(map);
-
-map.on("zoomend", function(){
-  resetLabels(view_cong_hientrang_geo);
-});
-
-var cover = document.getElementById("cover");
-resetLabels(view_cong_hientrang_geo);
-
-function resetLabels(markers) {
-
-  var i = 0;
-  markers.eachLayer(function(label){
-    addLabel(label, ++i);
-  });
-  labelEngine.update();
-}
-
-function addLabel(layer, id) {
-
-  // This is ugly but there is no getContainer method on the tooltip :(
-  var label = layer.getTooltip()._source._tooltip._container;
-  if (label) {
-
-    // We need the bounding rectangle of the label itself
-    var rect = label.getBoundingClientRect();
-
-    // We convert the container coordinates (screen space) to Lat/lng
-    var bottomLeft = map.containerPointToLatLng([rect.left, rect.bottom]);
-    var topRight = map.containerPointToLatLng([rect.right, rect.top]);
-    var boundingBox = {
-      bottomLeft : [bottomLeft.lng, bottomLeft.lat],
-      topRight   : [topRight.lng, topRight.lat]
-    };
-
-    // Ingest the label into labelgun itself
-    labelEngine.ingestLabel(
-      boundingBox,
-      id,
-      parseInt(Math.random() * (5 - 1) + 1), // Weight
-      label, 
-      false
-    );
-
-    // If the label hasn't been added to the map already
-    // add it and set the added flag to true
-    if (!layer.added) {
-      layer.addTo(map);
-      layer.added = true;
-    }
-  }
-}
 </script>
 </body>
 </html>
