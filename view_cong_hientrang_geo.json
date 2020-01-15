@@ -1,0 +1,5393 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:EPSG::3857"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"id": 18,
+				"maso": "CCD_18",
+				"ten": "Cống Giồng Trường",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 1.8,
+				"chieucao_khaudo": 2.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": null,
+				"chieucao_cuacong": null,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "9999",
+				"maso_hinhthucvanhanh": "9999",
+				"maso_loaimay": "9999",
+				"nam_xaydung": 2001,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 120,
+				"nhiemvu_tieu": 120,
+				"nhiemvu_nganman": 120,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "",
+				"maso_xa": 29035,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.497039386178,
+				"y": 10.1308838739536,
+				"geom": "0101000020C18C0D00480C028B4CC0214188D2DEA0A9183141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.497039386178, 10.1308838739536]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 13,
+				"maso": "CCD_13",
+				"ten": "Cống Rạch Nò (Cũ)",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_02",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 2.4,
+				"caotrinh_daycong": -2.5,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 1990,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 820,
+				"nhiemvu_tieu": 820,
+				"nhiemvu_nganman": 820,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": 10.8,
+				"ghichu": "2x2",
+				"maso_xa": 29125,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.651998217628,
+				"y": 10.1076917749667,
+				"geom": "0101000020C18C0D0010A5BD21084522418026C256CF0E3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.651998217628, 10.1076917749667]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 53,
+				"maso": "CCD_53",
+				"ten": "Cống Đường Xuồng",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_07",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 1.8,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 2011,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2",
+				"maso_xa": 29152,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.671465634351,
+				"y": 10.0470612342081,
+				"geom": "0101000020C18C0D00C086A757D9552241206C78EAA2F43041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.671465634351, 10.0470612342081]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 71,
+				"maso": "CCD_71",
+				"ten": "Cống Tân Hương",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_05",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 7,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 7.5,
+				"chieucao_cuacong": 6,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 1998,
+				"dientich_khuquanly": 23490,
+				"dientich_nhaquanly": 80,
+				"nhiemvu_tuoi": 1750,
+				"nhiemvu_tieu": 2024,
+				"nhiemvu_nganman": 2024,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "7",
+				"maso_xa": 28972,
+				"maso_huyen": 833,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.417901835958,
+				"y": 10.0688416683108,
+				"geom": "0101000020C18C0D0090B96BE9A67C214150A60AA6C8FD3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.417901835958, 10.0688416683108]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 142,
+				"maso": "CCD_142",
+				"ten": "Cống Số 12",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3",
+				"maso_xa": 29062,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.501024203555,
+				"y": 10.2697661711915,
+				"geom": "0101000020C18C0D00504013A16EC32141E00B93F9AB543141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.501024203555, 10.2697661711915]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 143,
+				"maso": "CCD_143",
+				"ten": "Cống Số 13",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 3,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 3.4,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -1.5,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "3x3,5",
+				"maso_xa": 29062,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.503963896137,
+				"y": 10.268751708892,
+				"geom": "0101000020C18C0D0088FD6537F3C52141C0CAA1853C543141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.503963896137, 10.268751708892]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 144,
+				"maso": "CCD_144",
+				"ten": "Cống Số 14",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3",
+				"maso_xa": 29065,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.508844217256,
+				"y": 10.2667152896737,
+				"geom": "0101000020C18C0D007081048521CA2141B8627F895C533141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.508844217256, 10.2667152896737]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 146,
+				"maso": "CCD_146",
+				"ten": "Cống Giồng Keo",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_08",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 10,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 10.5,
+				"chieucao_cuacong": 5.6,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 2900,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "10",
+				"maso_xa": 28933,
+				"maso_huyen": 838,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.285535391816,
+				"y": 10.1634855745383,
+				"geom": "0101000020C18C0D00903177ED2A0B214148B6F3CD91263141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.285535391816, 10.1634855745383]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 24,
+				"maso": "CCD_24",
+				"ten": "Cống Liên Xã Tân Thanh",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2.2,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 2.4,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 2002,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 150,
+				"nhiemvu_tieu": 150,
+				"nhiemvu_nganman": 150,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2",
+				"maso_xa": 29035,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.50800268863,
+				"y": 10.1267218350857,
+				"geom": "0101000020C18C0D0028A089B0B1C92141F05A420EE0163141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.50800268863, 10.1267218350857]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 72,
+				"maso": "CCD_72",
+				"ten": "Cống Tân Trung",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_05",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 3,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 3.5,
+				"chieucao_cuacong": 4.5,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 250,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "3",
+				"maso_xa": 28963,
+				"maso_huyen": 833,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.383620746124,
+				"y": 10.0707101569062,
+				"geom": "0101000020C18C0D0060E5D0E24A5F21413870CED88FFE3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.383620746124, 10.0707101569062]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 74,
+				"maso": "CCD_74",
+				"ten": "Cống Cả Bần",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_05",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 1.4,
+				"chieucao_khaudo": 1.4,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 1.65,
+				"chieucao_cuacong": 2,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 2006,
+				"dientich_khuquanly": 1656,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 130,
+				"nhiemvu_tieu": 130,
+				"nhiemvu_nganman": 130,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,4x1,4",
+				"maso_xa": 29185,
+				"maso_huyen": 837,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.436779571174,
+				"y": 10.0634886378566,
+				"geom": "0101000020C18C0D00184850DCD38C214138234ADB7CFB3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.436779571174, 10.0634886378566]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 81,
+				"maso": "CCD_81",
+				"ten": "Cống Rạch Ngát",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_05",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 7,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 7.5,
+				"chieucao_cuacong": 5,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "7",
+				"maso_xa": 29209,
+				"maso_huyen": 837,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.574795760349,
+				"y": 9.96346963843913,
+				"geom": "0101000020C18C0D005817B7D13C032241E80434E168D03041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.574795760349, 9.96346963843913]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 83,
+				"maso": "CCD_83",
+				"ten": "Cống Vàm Đồn",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_06",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 5.5,
+				"chieucao_cuacong": 6,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 1986,
+				"dientich_khuquanly": 14600,
+				"dientich_nhaquanly": 280,
+				"nhiemvu_tuoi": 5080,
+				"nhiemvu_tieu": 6705,
+				"nhiemvu_nganman": 5251,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1 cửa hở B= (5x6)m;\n4 cửa ngầm mỗi cửa (2,5x3)m",
+				"maso_xa": 28978,
+				"maso_huyen": 833,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.381430909875,
+				"y": 9.99074870519687,
+				"geom": "0101000020C18C0D0070F90FC98C5D2141F085C96403DC3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.381430909875, 9.99074870519687]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 84,
+				"maso": "CCD_84",
+				"ten": "Cống Bình Bát",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_06",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 3,
+				"chieurong_cuacong": 2.3,
+				"chieucao_cuacong": 2.7,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_03",
+				"nam_xaydung": 1987,
+				"dientich_khuquanly": 2480,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 1244,
+				"nhiemvu_tieu": 1660,
+				"nhiemvu_nganman": 1660,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x2",
+				"maso_xa": 28981,
+				"maso_huyen": 833,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.398504262928,
+				"y": 9.97912619655066,
+				"geom": "0101000020C18C0D0058F5B99A316C2141D834EF8801D73041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.398504262928, 9.97912619655066]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 85,
+				"maso": "CCD_85",
+				"ten": "Cống Tổng Can",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_06",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 5.5,
+				"chieucao_cuacong": 5,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 1991,
+				"dientich_khuquanly": 5625,
+				"dientich_nhaquanly": 36,
+				"nhiemvu_tuoi": 900,
+				"nhiemvu_tieu": 900,
+				"nhiemvu_nganman": 900,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "5",
+				"maso_xa": 29203,
+				"maso_huyen": 837,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.44211676448,
+				"y": 9.96144359982005,
+				"geom": "0101000020C18C0D00D83D795895912141A8CFD57667CF3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.44211676448, 9.96144359982005]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 98,
+				"maso": "CCD_98",
+				"ten": "Cống Ông Hổ",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_09",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2.5,
+				"chieucao_khaudo": 2.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 2.8,
+				"chieucao_cuacong": 2.8,
+				"caotrinh_daycong": -2.5,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 1998,
+				"dientich_khuquanly": 4154,
+				"dientich_nhaquanly": 435,
+				"nhiemvu_tuoi": 892,
+				"nhiemvu_tieu": 892,
+				"nhiemvu_nganman": 892,
+				"congsuat_tuoi": 8.69,
+				"congsuat_tieu": 12.79,
+				"ghichu": "2,5x2,5",
+				"maso_xa": 29083,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.541191727307,
+				"y": 10.2098084087131,
+				"geom": "0101000020C18C0D00B8FC8794EFE52141506B9AB7CE3A3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.541191727307, 10.2098084087131]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 108,
+				"maso": "CCD_108",
+				"ten": "Cống Bà Mụ",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 6.1,
+				"chieucao_cuacong": 6,
+				"caotrinh_daycong": -3,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 350,
+				"nhiemvu_tieu": 350,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "5",
+				"maso_xa": 29080,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.621933722337,
+				"y": 10.2335612703411,
+				"geom": "0101000020C18C0D0078A52CE3FE2A2241B059F5C928453141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.621933722337, 10.2335612703411]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 112,
+				"maso": "CCD_112",
+				"ten": "Cống Lộc Thuận",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 6.2,
+				"chieucao_cuacong": 5.5,
+				"caotrinh_daycong": -2.5,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "5",
+				"maso_xa": 29077,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.602655202389,
+				"y": 10.2407457934704,
+				"geom": "0101000020C18C0D00C086A7577A1A2241483789D13D483141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.602655202389, 10.2407457934704]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 113,
+				"maso": "CCD_113",
+				"ten": "Cống Phú Vang",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 6.2,
+				"chieucao_cuacong": 5.5,
+				"caotrinh_daycong": -2.5,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "5",
+				"maso_xa": 29074,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.590320033211,
+				"y": 10.2426603014042,
+				"geom": "0101000020C18C0D00780B2468EA0F22414082E2070E493141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.590320033211, 10.2426603014042]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 29,
+				"maso": "CCD_29",
+				"ten": "Cống Giồng Quí",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 3,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 3,
+				"chieurong_cuacong": 3.4,
+				"chieucao_cuacong": 4.5,
+				"caotrinh_daycong": -2.5,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_01",
+				"nam_xaydung": 1993,
+				"dientich_khuquanly": 9710,
+				"dientich_nhaquanly": 67.5,
+				"nhiemvu_tuoi": 1020,
+				"nhiemvu_tieu": 1020,
+				"nhiemvu_nganman": 1020,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "3x2",
+				"maso_xa": 29176,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.59066170253,
+				"y": 10.010203148668,
+				"geom": "0101000020C18C0D00D0BCE3F4B910224190CB7F589EE43041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.59066170253, 10.010203148668]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 30,
+				"maso": "CCD_30",
+				"ten": "Cống Rạch Lá",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 1.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 1.8,
+				"chieucao_cuacong": 1.8,
+				"caotrinh_daycong": -2.5,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1999,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 900,
+				"nhiemvu_tieu": 900,
+				"nhiemvu_nganman": 900,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x1,5",
+				"maso_xa": 29176,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.578961707041,
+				"y": 9.99683620303679,
+				"geom": "0101000020C18C0D0058302AE9BB062241D0D5569CD4DE3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.578961707041, 9.99683620303679]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 129,
+				"maso": "CCD_129",
+				"ten": "Cống Số 27",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_3",
+				"chieungang_khaudo": null,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": 100,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 1.2,
+				"chieucao_cuacong": 1.2,
+				"caotrinh_daycong": -0.5,
+				"maso_vatlieucuacong": "VATLIEU_4",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "9999",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "Ø1",
+				"maso_xa": 29074,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.572263834095,
+				"y": 10.249471940859,
+				"geom": "0101000020C18C0D00A857CA3272002241402CD45AFA4B3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.572263834095, 10.249471940859]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 123,
+				"maso": "CCD_123",
+				"ten": "Cống Số 21",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 3,
+				"chieucao_khaudo": 4,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 3.4,
+				"chieucao_cuacong": 4,
+				"caotrinh_daycong": -1.5,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "3x4",
+				"maso_xa": 29065,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.539976431294,
+				"y": 10.260031234213,
+				"geom": "0101000020C18C0D00A05E290BCAE4214118AE477181503141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.539976431294, 10.260031234213]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 124,
+				"maso": "CCD_124",
+				"ten": "Cống Số 22",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_3",
+				"chieungang_khaudo": null,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": 100,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 1.2,
+				"chieucao_cuacong": 1.2,
+				"caotrinh_daycong": -0.5,
+				"maso_vatlieucuacong": "VATLIEU_4",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "9999",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "Ø1",
+				"maso_xa": 29068,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.548640778716,
+				"y": 10.2580594796866,
+				"geom": "0101000020C18C0D000088F47B35EC2141E8FBA9B1A94F3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.548640778716, 10.2580594796866]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 138,
+				"maso": "CCD_138",
+				"ten": "Cống Số 6",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3",
+				"maso_xa": 29062,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.486715167161,
+				"y": 10.2751967308441,
+				"geom": "0101000020C18C0D00E09387E52CB721415040130101573141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.486715167161, 10.2751967308441]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 139,
+				"maso": "CCD_139",
+				"ten": "Cống Số 7",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3",
+				"maso_xa": 29062,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.487821892716,
+				"y": 10.2747470216756,
+				"geom": "0101000020C18C0D00506210981FB8214178BE9F8ACF563141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.487821892716, 10.2747470216756]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 140,
+				"maso": "CCD_140",
+				"ten": "Cống Số 8",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3",
+				"maso_xa": 29062,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.490482716565,
+				"y": 10.2737579795,
+				"geom": "0101000020C18C0D00201FF40C67BA2141E80434D162563141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.490482716565, 10.2737579795]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 141,
+				"maso": "CCD_141",
+				"ten": "Cống Số 11",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 3,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 3.4,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -1.5,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "3x3,5",
+				"maso_xa": 29062,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.495712687233,
+				"y": 10.2717726001512,
+				"geom": "0101000020C18C0D00A813D0E4E1BE2141E0C7988B88553141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.495712687233, 10.2717726001512]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 25,
+				"maso": "CCD_25",
+				"ten": "Cống Láng Sen",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 3,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 2.4,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 1987,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": 40,
+				"nhiemvu_tuoi": 800,
+				"nhiemvu_tieu": 800,
+				"nhiemvu_nganman": 800,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": 25.2,
+				"ghichu": "2x2",
+				"maso_xa": 29143,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.52254393857,
+				"y": 10.0840153077936,
+				"geom": "0101000020C18C0D00608FC2553BD6214108A3922A70043141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.52254393857, 10.0840153077936]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 26,
+				"maso": "CCD_26",
+				"ten": "Cống Láng Sen 2",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 1.7,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2,
+				"chieucao_cuacong": 3,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1999,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 150,
+				"nhiemvu_tieu": 150,
+				"nhiemvu_nganman": 150,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,7",
+				"maso_xa": 29128,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.539539733793,
+				"y": 10.1060878182976,
+				"geom": "0101000020C18C0D00F8065F58BDE42141F063CCFDFD0D3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.539539733793, 10.1060878182976]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 27,
+				"maso": "CCD_27",
+				"ten": "Cống 2 Cửa",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 4,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 4.5,
+				"chieucao_cuacong": 4.5,
+				"caotrinh_daycong": -3.2,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 1990,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": 54,
+				"nhiemvu_tuoi": 1700,
+				"nhiemvu_tieu": 1700,
+				"nhiemvu_nganman": 1700,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "4",
+				"maso_xa": 29110,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.599371910446,
+				"y": 10.0425306305608,
+				"geom": "0101000020C18C0D0010022B671D1822418095437B98F23041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.599371910446, 10.0425306305608]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 28,
+				"maso": "CCD_28",
+				"ten": "Cống Cầu Vĩ",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 3,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 2.4,
+				"caotrinh_daycong": -2.5,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 1992,
+				"dientich_khuquanly": 3198,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 400,
+				"nhiemvu_tieu": 400,
+				"nhiemvu_nganman": 400,
+				"congsuat_tuoi": 11.2,
+				"congsuat_tieu": 24.25,
+				"ghichu": "2x2",
+				"maso_xa": 29179,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.624041932444,
+				"y": 10.0037762893532,
+				"geom": "0101000020C18C0D000088F41B552D2241F01FD2FFE0E13041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.624041932444, 10.0037762893532]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 31,
+				"maso": "CCD_31",
+				"ten": "Cống An Hòa Tây",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 1.5,
+				"chieucao_khaudo": 1.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 1.8,
+				"chieucao_cuacong": 1.8,
+				"caotrinh_daycong": -2.3,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 2000,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 450,
+				"nhiemvu_tieu": 450,
+				"nhiemvu_nganman": 450,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,5x1,5",
+				"maso_xa": 29176,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.593452480081,
+				"y": 9.999475547483,
+				"geom": "0101000020C18C0D00E04F8DF7231322415817B791FCDF3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.593452480081, 9.999475547483]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 35,
+				"maso": "CCD_35",
+				"ten": "Cống Sơn Đốc",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_04",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 7.5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 8,
+				"chieucao_cuacong": 5.5,
+				"caotrinh_daycong": -3.2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 2001,
+				"dientich_khuquanly": 6900,
+				"dientich_nhaquanly": 61.6,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": 83.74,
+				"ghichu": "7,5",
+				"maso_xa": 29047,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.462324825618,
+				"y": 10.0669572728399,
+				"geom": "0101000020C18C0D00002B8776B2A22141009A087B02FD3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.462324825618, 10.0669572728399]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 50,
+				"maso": "CCD_50",
+				"ten": "Cống Rạch Già",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_07",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 1.8,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 2011,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2",
+				"maso_xa": 29119,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.653143366228,
+				"y": 10.1294397182254,
+				"geom": "0101000020C18C0D0060984CD5F54522410088F43B35183141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.653143366228, 10.1294397182254]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 1,
+				"maso": "CCD_1",
+				"ten": "Cống 30/4",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_01",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2.4,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 2.4,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1989,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 400,
+				"nhiemvu_tieu": 400,
+				"nhiemvu_nganman": 400,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x2,4",
+				"maso_xa": 28987,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "a5213aa3f426539eee278e082816e0df",
+				"x": 106.442166869551,
+				"y": 10.2415868217866,
+				"geom": "0101000020C18C0D00701283001D91214130772DB170483141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.442166869551, 10.2415868217866]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 2,
+				"maso": "CCD_2",
+				"ten": "Cống Hội Đồng Tỉnh",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_01",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 2.5,
+				"caotrinh_daycong": -1.8,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1994,
+				"dientich_khuquanly": 1250.8,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 500,
+				"nhiemvu_tieu": 500,
+				"nhiemvu_nganman": 500,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": 12.02,
+				"ghichu": "2x2",
+				"maso_xa": 28996,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "a5213aa3f426539eee278e082816e0df",
+				"x": 106.477812126605,
+				"y": 10.2093172967993,
+				"geom": "0101000020C18C0D005839B448AFAF2141C8EEC913883A3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.477812126605, 10.2093172967993]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 12,
+				"maso": "CCD_12",
+				"ten": "Cống Rạch Điều",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_02",
+				"maso_loaicong": "LOAI_3",
+				"chieungang_khaudo": null,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": 100,
+				"soluong_cuacong": 4,
+				"chieurong_cuacong": 1.2,
+				"chieucao_cuacong": 1.2,
+				"caotrinh_daycong": -1.7,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1995,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 100,
+				"nhiemvu_tieu": 100,
+				"nhiemvu_nganman": 100,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": 5.7,
+				"ghichu": "Ø1",
+				"maso_xa": 29113,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "a5213aa3f426539eee278e082816e0df",
+				"x": 106.618310950851,
+				"y": 10.1557746189666,
+				"geom": "0101000020C18C0D0008B5A63913282241508D97BE8B233141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.618310950851, 10.1557746189666]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 51,
+				"maso": "CCD_51",
+				"ten": "Cống Mương Đào (đê biển)",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_07",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 1.5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 1.9,
+				"chieucao_cuacong": 1.8,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 2011,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,5",
+				"maso_xa": 29125,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.680437582882,
+				"y": 10.067902208034,
+				"geom": "0101000020C18C0D00D812F2617B5D224148C807EDA6FD3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.680437582882, 10.067902208034]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 52,
+				"maso": "CCD_52",
+				"ten": "Cống Rạch Ông Châu",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_07",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 1.5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 1.9,
+				"chieucao_cuacong": 1.8,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 2011,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,5",
+				"maso_xa": 29125,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.678347846997,
+				"y": 10.0905631047808,
+				"geom": "0101000020C18C0D00789CA203A35B2241582041D170073141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.678347846997, 10.0905631047808]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 4,
+				"maso": "CCD_4",
+				"ten": "Cống Châu Phú",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_01",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 2.4,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 1993,
+				"dientich_khuquanly": 5300,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 870,
+				"nhiemvu_tieu": 900,
+				"nhiemvu_nganman": 1370,
+				"congsuat_tuoi": 4.8,
+				"congsuat_tieu": 16,
+				"ghichu": "2x2",
+				"maso_xa": 28996,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.492086683608,
+				"y": 10.231086117907,
+				"geom": "0101000020C18C0D0008B5A639DCBB2141E002096AF3433141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.492086683608, 10.231086117907]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 6,
+				"maso": "CCD_6",
+				"ten": "Cống Đầm Hồ",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_01",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 1.5,
+				"chieucao_khaudo": 1.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 1.9,
+				"chieucao_cuacong": 1.9,
+				"caotrinh_daycong": -1.5,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 2004,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 120,
+				"nhiemvu_tieu": 120,
+				"nhiemvu_nganman": 120,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,5x1,5",
+				"maso_xa": 28996,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.495263813837,
+				"y": 10.2302575550375,
+				"geom": "0101000020C18C0D0098C420D094BE214190976E9298433141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.495263813837, 10.2302575550375]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 7,
+				"maso": "CCD_7",
+				"ten": "Cống Nhà Thờ",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_02",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 5.5,
+				"chieucao_cuacong": 5,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 2013,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 1000,
+				"nhiemvu_tieu": 1000,
+				"nhiemvu_nganman": 1000,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "5",
+				"maso_xa": 29113,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.576727681408,
+				"y": 10.1838121455336,
+				"geom": "0101000020C18C0D00C820B0726904224188635D0C9D2F3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.576727681408, 10.1838121455336]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 8,
+				"maso": "CCD_8",
+				"ten": "Cống K20",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_02",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 1.4,
+				"chieucao_khaudo": 1.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 1.8,
+				"chieucao_cuacong": 1.8,
+				"caotrinh_daycong": -1.7,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1986,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 500,
+				"nhiemvu_tieu": 500,
+				"nhiemvu_nganman": 500,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,4x1,5",
+				"maso_xa": 29008,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.566413198799,
+				"y": 10.1884950256699,
+				"geom": "0101000020C18C0D0010A5BD6192FB2141D88AFD25A0313141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.566413198799, 10.1884950256699]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 9,
+				"maso": "CCD_9",
+				"ten": "Cống Vàm Hồ",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_02",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 5.6,
+				"chieucao_cuacong": 5,
+				"caotrinh_daycong": -3,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 1990,
+				"dientich_khuquanly": 18000,
+				"dientich_nhaquanly": 144,
+				"nhiemvu_tuoi": 6000,
+				"nhiemvu_tieu": 6000,
+				"nhiemvu_nganman": 6000,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "5",
+				"maso_xa": 29113,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.615193603419,
+				"y": 10.1576361726661,
+				"geom": "0101000020C18C0D00109C33E26625224178711BBD58243141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.615193603419, 10.1576361726661]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 11,
+				"maso": "CCD_11",
+				"ten": "Cống Ba Cô",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_02",
+				"maso_loaicong": "LOAI_3",
+				"chieungang_khaudo": null,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": 100,
+				"soluong_cuacong": 3,
+				"chieurong_cuacong": 1.2,
+				"chieucao_cuacong": 1.2,
+				"caotrinh_daycong": -1.5,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1986,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 400,
+				"nhiemvu_tieu": 400,
+				"nhiemvu_nganman": 400,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": 3.84,
+				"ghichu": "Ø1",
+				"maso_xa": 29119,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.634541715339,
+				"y": 10.1170295100256,
+				"geom": "0101000020C18C0D00604BC8E70F3622415005A3F2D2123141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.634541715339, 10.1170295100256]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 36,
+				"maso": "CCD_36",
+				"ten": "Cống Sơn Đốc 2",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_04",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 10,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 6,
+				"chieurong_cuacong": 11.2,
+				"chieucao_cuacong": 7.7,
+				"caotrinh_daycong": -4.7,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "10",
+				"maso_xa": 29047,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.458567897281,
+				"y": 10.0684988393951,
+				"geom": "0101000020C18C0D009087851A7A9F2141604BC817ACFD3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.458567897281, 10.0684988393951]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 5,
+				"maso": "CCD_5",
+				"ten": "Cống Cái Ngang",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_12",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2.5,
+				"chieucao_khaudo": 2.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 2.4,
+				"caotrinh_daycong": -1.5,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 2004,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 150,
+				"nhiemvu_tieu": 150,
+				"nhiemvu_nganman": 150,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2,5x2,5",
+				"maso_xa": 28996,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.517964370919,
+				"y": 10.2150021525032,
+				"geom": "0101000020C18C0D00F08E53F40AD221419075710B073D3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.517964370919, 10.2150021525032]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 75,
+				"maso": "CCD_75",
+				"ten": "Cống Cầu Tàu",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_05",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 1.7,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 3,
+				"chieurong_cuacong": 1.95,
+				"chieucao_cuacong": 2.8,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 1989,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 950,
+				"nhiemvu_tieu": 950,
+				"nhiemvu_nganman": 950,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,7",
+				"maso_xa": 29185,
+				"maso_huyen": 837,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.44283220464,
+				"y": 10.0567788702472,
+				"geom": "0101000020C18C0D00E81DA7E805922141D868001F98F83041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.44283220464, 10.0567788702472]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 3,
+				"maso": "CCD_3",
+				"ten": "Cống Bần Quỳ",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_01",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 2.4,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 1995,
+				"dientich_khuquanly": 2556.8,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 700,
+				"nhiemvu_tieu": 700,
+				"nhiemvu_nganman": 700,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": 11.22,
+				"ghichu": "2x2",
+				"maso_xa": 28990,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.463982481632,
+				"y": 10.2451437644045,
+				"geom": "0101000020C18C0D00A01A2F3DC7A321412041F153FF493141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.463982481632, 10.2451437644045]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 76,
+				"maso": "CCD_76",
+				"ten": "Cống Bà Hạp",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_05",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 2.2,
+				"chieucao_cuacong": 2.4,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1994,
+				"dientich_khuquanly": 1275,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 600,
+				"nhiemvu_tieu": 600,
+				"nhiemvu_nganman": 600,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x2",
+				"maso_xa": 29188,
+				"maso_huyen": 837,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.452904554031,
+				"y": 10.0279494702106,
+				"geom": "0101000020C18C0D006809F9C0B39A214108560ECD25EC3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.452904554031, 10.0279494702106]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 77,
+				"maso": "CCD_77",
+				"ten": "Cống Xẻo Vườn",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_05",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 2.5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 2.7,
+				"chieucao_cuacong": 3.2,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 1992,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 1600,
+				"nhiemvu_tieu": 1600,
+				"nhiemvu_nganman": 1600,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2,5",
+				"maso_xa": 29191,
+				"maso_huyen": 837,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.46589265594,
+				"y": 10.0223069932619,
+				"geom": "0101000020C18C0D00C854C128D6A52141288716C9B8E93041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.46589265594, 10.0223069932619]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 78,
+				"maso": "CCD_78",
+				"ten": "Cống Tám Dóc",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_05",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 1.4,
+				"chieucao_khaudo": 1.4,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 1.65,
+				"chieucao_cuacong": 1.65,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1994,
+				"dientich_khuquanly": 860,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 150,
+				"nhiemvu_tieu": 150,
+				"nhiemvu_nganman": 150,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,4x1,4",
+				"maso_xa": 29191,
+				"maso_huyen": 837,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.479325453885,
+				"y": 10.0158415632159,
+				"geom": "0101000020C18C0D00887CD0935AB12141D83D79E8F0E63041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.479325453885, 10.0158415632159]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 79,
+				"maso": "CCD_79",
+				"ten": "Cống Chà Là",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_05",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.35,
+				"chieucao_cuacong": 4,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 2001,
+				"dientich_khuquanly": 1700,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 400,
+				"nhiemvu_tieu": 400,
+				"nhiemvu_nganman": 400,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2",
+				"maso_xa": 29197,
+				"maso_huyen": 837,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.487391725935,
+				"y": 10.0058334994464,
+				"geom": "0101000020C18C0D0050158C2A48B8214128E483EE9FE23041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.487391725935, 10.0058334994464]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 80,
+				"maso": "CCD_80",
+				"ten": "Cống Cổ Rạng",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_05",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 3,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 3.54,
+				"chieucao_cuacong": 5,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 1997,
+				"dientich_khuquanly": 4224,
+				"dientich_nhaquanly": 49.3,
+				"nhiemvu_tuoi": 1352,
+				"nhiemvu_tieu": 1750,
+				"nhiemvu_nganman": 1750,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "3",
+				"maso_xa": 29182,
+				"maso_huyen": 837,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.525041062493,
+				"y": 9.95961894747657,
+				"geom": "0101000020C18C0D00480C028B9FD82141E00209CAB1CE3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.525041062493, 9.95961894747657]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 37,
+				"maso": "CCD_37",
+				"ten": "Cống Cái Mít",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_04",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 5.6,
+				"chieucao_cuacong": 5.7,
+				"caotrinh_daycong": -3.2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 2001,
+				"dientich_khuquanly": 1200,
+				"dientich_nhaquanly": 62,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": 8.47,
+				"ghichu": "5",
+				"maso_xa": 29041,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.420676202417,
+				"y": 10.1184624221511,
+				"geom": "0101000020C18C0D00A0A22399F07E2141009A088B39133141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.420676202417, 10.1184624221511]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 38,
+				"maso": "CCD_38",
+				"ten": "Cống Cái Bông",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_04",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 7.5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 8,
+				"chieucao_cuacong": 5.7,
+				"caotrinh_daycong": -3.2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 2001,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": 80,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "7,5",
+				"maso_xa": 29161,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.527557411122,
+				"y": 10.0299410039799,
+				"geom": "0101000020C18C0D00183FC6BCA2DA2141705F077E14ED3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.527557411122, 10.0299410039799]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 39,
+				"maso": "CCD_39",
+				"ten": "Cống Mương Đào",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_04",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 7.5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 8,
+				"chieucao_cuacong": 5.7,
+				"caotrinh_daycong": -3.2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 2001,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": 50,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "7,5",
+				"maso_xa": 29161,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.557959305477,
+				"y": 10.0127241459987,
+				"geom": "0101000020C18C0D00182FDDE4B5F42141A8BDC137ACE53041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.557959305477, 10.0127241459987]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 40,
+				"maso": "CCD_40",
+				"ten": "Cống Xẻo Sâu",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_04",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 5.5,
+				"chieucao_cuacong": 5.7,
+				"caotrinh_daycong": -3.2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 2001,
+				"dientich_khuquanly": 4440,
+				"dientich_nhaquanly": 66.4,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": 25.05,
+				"ghichu": "5",
+				"maso_xa": 29155,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.492669746646,
+				"y": 10.0376508303531,
+				"geom": "0101000020C18C0D0010BE3099BDBC214118E2586760F03041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.492669746646, 10.0376508303531]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 42,
+				"maso": "CCD_42",
+				"ten": "Cống An Bình Tây",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_04",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 1.5,
+				"chieucao_khaudo": 1.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 3,
+				"chieurong_cuacong": 1.7,
+				"chieucao_cuacong": 1.7,
+				"caotrinh_daycong": -1.5,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1986,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 500,
+				"nhiemvu_tieu": 500,
+				"nhiemvu_nganman": 500,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": 5.4,
+				"ghichu": "1,5x1,5",
+				"maso_xa": 29149,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.568306879447,
+				"y": 10.0418878828831,
+				"geom": "0101000020C18C0D003892CBBF82FD2141508D97BE48F23041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.568306879447, 10.0418878828831]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 43,
+				"maso": "CCD_43",
+				"ten": "Cống Giồng Trơn",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_07",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 7.5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 8,
+				"chieucao_cuacong": 6.2,
+				"caotrinh_daycong": -3.2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 2011,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "7,5",
+				"maso_xa": 29119,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.635991114938,
+				"y": 10.1357998433432,
+				"geom": "0101000020C18C0D00186A4D534237224170128390EF1A3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.635991114938, 10.1357998433432]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 44,
+				"maso": "CCD_44",
+				"ten": "Cống Rạch Nò (Mới)",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_07",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 5.6,
+				"chieucao_cuacong": 6.2,
+				"caotrinh_daycong": -3.2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 2011,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": 76,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "5",
+				"maso_xa": 29125,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.660538195351,
+				"y": 10.1191980128115,
+				"geom": "0101000020C18C0D0030333313514C2241A0F831A6CA133141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.660538195351, 10.1191980128115]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 45,
+				"maso": "CCD_45",
+				"ten": "Cống Rạch Trại",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_07",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 5.6,
+				"chieucao_cuacong": 6.2,
+				"caotrinh_daycong": -3.2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 2011,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "5",
+				"maso_xa": 29125,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.672371993097,
+				"y": 10.1004546834065,
+				"geom": "0101000020C18C0D0098559FCB7E562241A03C2C14B50B3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.672371993097, 10.1004546834065]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 46,
+				"maso": "CCD_46",
+				"ten": "Cống Ruộng Muối",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_07",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 10,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 11.2,
+				"chieucao_cuacong": 6.2,
+				"caotrinh_daycong": -3.2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 2011,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": 76,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "10",
+				"maso_xa": 29125,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.682220700624,
+				"y": 10.0824356389913,
+				"geom": "0101000020C18C0D00E8263128F95E2241385EBA09EF033141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.682220700624, 10.0824356389913]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 47,
+				"maso": "CCD_47",
+				"ten": "Cống Xẻo Lá",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_07",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 1.5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 1.9,
+				"chieucao_cuacong": 1.8,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 2011,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,5",
+				"maso_xa": 29125,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.666289381761,
+				"y": 10.1116463179449,
+				"geom": "0101000020C18C0D00B072687142512241607FD91D89103141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.666289381761, 10.1116463179449]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 48,
+				"maso": "CCD_48",
+				"ten": "Cống Rạch Cua",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_07",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 1.5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 1.9,
+				"chieucao_cuacong": 1.8,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 2011,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,5",
+				"maso_xa": 29125,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.670428618219,
+				"y": 10.1039361768177,
+				"geom": "0101000020C18C0D00C8073D9BD254224108C58F91350D3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.670428618219, 10.1039361768177]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 49,
+				"maso": "CCD_49",
+				"ten": "Cống Xẻo Rạo",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_07",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 1.5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 1.9,
+				"chieucao_cuacong": 1.8,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 2011,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,5",
+				"maso_xa": 29125,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.667562311376,
+				"y": 10.1090474601947,
+				"geom": "0101000020C18C0D00485986185B522241E0BE0E0C6A0F3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.667562311376, 10.1090474601947]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 86,
+				"maso": "CCD_86",
+				"ten": "Cống Cái Lức",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_06",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 5.5,
+				"chieucao_cuacong": 5,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 1994,
+				"dientich_khuquanly": 7700,
+				"dientich_nhaquanly": 54,
+				"nhiemvu_tuoi": 1500,
+				"nhiemvu_tieu": 2500,
+				"nhiemvu_nganman": 1500,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "5",
+				"maso_xa": 29203,
+				"maso_huyen": 837,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.412432925591,
+				"y": 9.97461179762678,
+				"geom": "0101000020C18C0D00F00DBEF0217821415820414111D53041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.412432925591, 9.97461179762678]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 87,
+				"maso": "CCD_87",
+				"ten": "Cống Cái Bần",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_06",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 3,
+				"chieurong_cuacong": 2.3,
+				"chieucao_cuacong": 3.4,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 1998,
+				"dientich_khuquanly": 4800,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 1000,
+				"nhiemvu_tieu": 1000,
+				"nhiemvu_nganman": 1000,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x2",
+				"maso_xa": 29203,
+				"maso_huyen": 837,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.442047702912,
+				"y": 9.95097570001197,
+				"geom": "0101000020C18C0D0070F085098B91214158423EA8E1CA3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.442047702912, 9.95097570001197]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 88,
+				"maso": "CCD_88",
+				"ten": "Cống Cả Ráng Sâu",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_06",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 7,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 7.5,
+				"chieucao_cuacong": 6,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 1998,
+				"dientich_khuquanly": 10108,
+				"dientich_nhaquanly": 48,
+				"nhiemvu_tuoi": 2000,
+				"nhiemvu_tieu": 2000,
+				"nhiemvu_nganman": 2000,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "7",
+				"maso_xa": 29212,
+				"maso_huyen": 837,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.493913003562,
+				"y": 9.93314046530461,
+				"geom": "0101000020C18C0D006888633D02BE214118FBCB4E39C33041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.493913003562, 9.93314046530461]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 89,
+				"maso": "CCD_89",
+				"ten": "Cống Bến Giông Nhỏ",
+				"maso_donviquanly": "CTTL_TRAM_2",
+				"maso_hethongthuyloi": "HTTL_06",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.5,
+				"chieucao_cuacong": 2.5,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 2004,
+				"dientich_khuquanly": 1409,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 200,
+				"nhiemvu_tieu": 200,
+				"nhiemvu_nganman": 200,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x2",
+				"maso_xa": 29212,
+				"maso_huyen": 837,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.507994435918,
+				"y": 9.90936029359076,
+				"geom": "0101000020C18C0D006844698F1ECA214120F46C96F6B83041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.507994435918, 9.90936029359076]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 90,
+				"maso": "CCD_90",
+				"ten": "Cống An Hóa",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_10",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 1.4,
+				"chieucao_khaudo": 1.4,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 1.8,
+				"chieucao_cuacong": 1.8,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1987,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 450,
+				"nhiemvu_tieu": 450,
+				"nhiemvu_nganman": 450,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,4x1,4",
+				"maso_xa": 28849,
+				"maso_huyen": 831,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.442514529585,
+				"y": 10.28211990627,
+				"geom": "0101000020C18C0D00D89AE6DD5591214180D0B3F9F3593141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.442514529585, 10.28211990627]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 91,
+				"maso": "CCD_91",
+				"ten": "Cống Thương Binh",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_10",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 2.25,
+				"chieucao_cuacong": 2.4,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 1993,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 600,
+				"nhiemvu_tieu": 700,
+				"nhiemvu_nganman": 900,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x2",
+				"maso_xa": 28786,
+				"maso_huyen": 829,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.424031521663,
+				"y": 10.2482170717849,
+				"geom": "0101000020C18C0D00E046035894812141A86054D2494B3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.424031521663, 10.2482170717849]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 92,
+				"maso": "CCD_92",
+				"ten": "Cống Giao Hòa",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_10",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 1.7,
+				"chieucao_khaudo": 1.7,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2,
+				"chieucao_cuacong": 2,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1997,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 400,
+				"nhiemvu_tieu": 400,
+				"nhiemvu_nganman": 400,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,7x1,7",
+				"maso_xa": 28849,
+				"maso_huyen": 831,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.443794108369,
+				"y": 10.2844253781705,
+				"geom": "0101000020C18C0D00C07D1D186D922141703D0A47F35A3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.443794108369, 10.2844253781705]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 95,
+				"maso": "CCD_95",
+				"ten": "Cống Ba Lai",
+				"maso_donviquanly": "CTTL_TO_BALAI",
+				"maso_hethongthuyloi": "HTTL_09",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 8,
+				"chieucao_khaudo": 8,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 8,
+				"chieurong_cuacong": 9.1,
+				"chieucao_cuacong": 7.2,
+				"caotrinh_daycong": -4.2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 2002,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 60000,
+				"nhiemvu_tieu": 60000,
+				"nhiemvu_nganman": 60000,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "Thông số 1: B=8m, 8 cửa (9,1 x 7,2)m, H=-4,2m;\nThông số 2: B=10m, 2 cửa (11,2 x 7,2)m, H=-4,2m",
+				"maso_xa": 29095,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.633970446773,
+				"y": 10.1460774105089,
+				"geom": "0101000020C18C0D0048C8073D8135224150F38EC35F1F3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.633970446773, 10.1460774105089]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 97,
+				"maso": "CCD_97",
+				"ten": "Cống Ông Bộ",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_09",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 2.4,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 2002,
+				"dientich_khuquanly": 54392,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 600,
+				"nhiemvu_tieu": 600,
+				"nhiemvu_nganman": 600,
+				"congsuat_tuoi": 6.7,
+				"congsuat_tieu": 9.86,
+				"ghichu": "2x2",
+				"maso_xa": 29071,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.508005055625,
+				"y": 10.2291549674764,
+				"geom": "0101000020C18C0D00989999397DC92141B0BFECDE21433141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.508005055625, 10.2291549674764]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 99,
+				"maso": "CCD_99",
+				"ten": "Cống Cái Muồng",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_09",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2.5,
+				"chieucao_khaudo": 3,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 2.5,
+				"chieucao_cuacong": 3,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 1999,
+				"dientich_khuquanly": 21917,
+				"dientich_nhaquanly": 430,
+				"nhiemvu_tuoi": 1041,
+				"nhiemvu_tieu": 1041,
+				"nhiemvu_nganman": 1041,
+				"congsuat_tuoi": 13.12,
+				"congsuat_tieu": 19.12,
+				"ghichu": "2,5x3",
+				"maso_xa": 29089,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.56522738449,
+				"y": 10.2032326905793,
+				"geom": "0101000020C18C0D0078832F4C86FA2141E0718AEEFD373141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.56522738449, 10.2032326905793]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 100,
+				"maso": "CCD_100",
+				"ten": "Cống Ao Vuông",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_09",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 4,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 2.7,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 1989,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 980,
+				"nhiemvu_tieu": 980,
+				"nhiemvu_nganman": 980,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": 11.76,
+				"ghichu": "2x2",
+				"maso_xa": 29089,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.600399698955,
+				"y": 10.187654237261,
+				"geom": "0101000020C18C0D00107A360BAB182241C8FEB2BB4C313141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.600399698955, 10.187654237261]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 101,
+				"maso": "CCD_101",
+				"ten": "Cống Cầu Ván",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_09",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 6,
+				"chieucao_cuacong": 5.8,
+				"caotrinh_daycong": -2.8,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 2000,
+				"nhiemvu_tieu": 2000,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "5",
+				"maso_xa": 29098,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.659170468245,
+				"y": 10.1575852887315,
+				"geom": "0101000020C18C0D0068DE718A0D4B224150A60A4660243141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.659170468245, 10.1575852887315]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 103,
+				"maso": "CCD_103",
+				"ten": "Cống Rạch Đình",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_09",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 2,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.3,
+				"chieucao_cuacong": 2.22,
+				"caotrinh_daycong": null,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 150,
+				"nhiemvu_tieu": 150,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x2",
+				"maso_xa": 29209,
+				"maso_huyen": 837,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.599794073823,
+				"y": 9.91716009224603,
+				"geom": "0101000020C18C0D00789CA243C11822410824289E6DBC3041"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.599794073823, 9.91716009224603]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 105,
+				"maso": "CCD_105",
+				"ten": "Cống Định Trung",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 10,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 4,
+				"chieurong_cuacong": 11.4,
+				"chieucao_cuacong": 7.7,
+				"caotrinh_daycong": -4.7,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 520,
+				"nhiemvu_tieu": 520,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "10",
+				"maso_xa": 29080,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.645096097222,
+				"y": 10.2280358797354,
+				"geom": "0101000020C18C0D00C09F1AAFD53E224128530593CC423141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.645096097222, 10.2280358797354]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 106,
+				"maso": "CCD_106",
+				"ten": "Cống Tân Định",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 7.5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 7.8,
+				"chieucao_cuacong": 6,
+				"caotrinh_daycong": -3,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 400,
+				"nhiemvu_tieu": 400,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "7,5",
+				"maso_xa": 29080,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.613310318592,
+				"y": 10.2383037391177,
+				"geom": "0101000020C18C0D00388941809A232241A0CDAACF32473141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.613310318592, 10.2383037391177]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 107,
+				"maso": "CCD_107",
+				"ten": "Cống Cả Nhỏ",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 7.8,
+				"chieucao_cuacong": 6,
+				"caotrinh_daycong": -3,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 500,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "7,5",
+				"maso_xa": 29080,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.636874259906,
+				"y": 10.2302309156429,
+				"geom": "0101000020C18C0D00D834EFB8CA372241208E75E1BC433141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.636874259906, 10.2302309156429]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 109,
+				"maso": "CCD_109",
+				"ten": "Cống Thanh Niên",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 3,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 3.4,
+				"chieucao_cuacong": 5.5,
+				"caotrinh_daycong": -2.5,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 50,
+				"nhiemvu_tieu": 50,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "3",
+				"maso_xa": 29080,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.629720887758,
+				"y": 10.234064061021,
+				"geom": "0101000020C18C0D0008560EEDA8312241B09465B862453141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.629720887758, 10.234064061021]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 110,
+				"maso": "CCD_110",
+				"ten": "Cống Số 36",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3,5",
+				"maso_xa": 29080,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.650025561414,
+				"y": 10.2281024846304,
+				"geom": "0101000020C18C0D00A857CAD20D4322415817B771D5423141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.650025561414, 10.2281024846304]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 111,
+				"maso": "CCD_111",
+				"ten": "Cống Số 37",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 3,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 3.4,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -1.5,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "3x3,5",
+				"maso_xa": 29080,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.654561478097,
+				"y": 10.2266916012911,
+				"geom": "0101000020C18C0D00E0A59BA4F0462241F84A59C63A423141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.654561478097, 10.2266916012911]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 114,
+				"maso": "CCD_114",
+				"ten": "Cống Số 30",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3,5",
+				"maso_xa": 29074,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.596156274649,
+				"y": 10.2415551038788,
+				"geom": "0101000020C18C0D00B0506BDAE91422412806817595483141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.596156274649, 10.2415551038788]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 116,
+				"maso": "CCD_116",
+				"ten": "Cống Vinh Điền",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 7.5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 8.6,
+				"chieucao_cuacong": 5.7,
+				"caotrinh_daycong": -2.7,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_03",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "7,5",
+				"maso_xa": 29065,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.513038582265,
+				"y": 10.265041743941,
+				"geom": "0101000020C18C0D009075715BB9CD2141E0A59B84A4523141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.513038582265, 10.265041743941]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 117,
+				"maso": "CCD_117",
+				"ten": "Cống Cái Bích",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 6,
+				"chieucao_cuacong": 5.7,
+				"caotrinh_daycong": -2.7,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_03",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "5",
+				"maso_xa": 29065,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.533027207917,
+				"y": 10.2614296664624,
+				"geom": "0101000020C18C0D00506210B8D6DE2141C8293A421A513141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.533027207917, 10.2614296664624]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 118,
+				"maso": "CCD_118",
+				"ten": "Cống Số 16",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3,5",
+				"maso_xa": 29065,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.519309292697,
+				"y": 10.2627564382186,
+				"geom": "0101000020C18C0D001873D77218D3214190A0F861A9513141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.519309292697, 10.2627564382186]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 119,
+				"maso": "CCD_119",
+				"ten": "Cống Số 17",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 3,
+				"chieucao_khaudo": 4,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 3.4,
+				"chieucao_cuacong": 4,
+				"caotrinh_daycong": -1.5,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "3x4",
+				"maso_xa": 29065,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.52226316897,
+				"y": 10.2617705556746,
+				"geom": "0101000020C18C0D00D05D4B28A0D52141E895B21C3D513141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.52226316897, 10.2617705556746]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 120,
+				"maso": "CCD_120",
+				"ten": "Cống Số 18",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3,5",
+				"maso_xa": 29065,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.524870667988,
+				"y": 10.2609247672318,
+				"geom": "0101000020C18C0D00F02FBBE7DBD721417824973FE0503141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.524870667988, 10.2609247672318]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 121,
+				"maso": "CCD_121",
+				"ten": "Cống Số 19",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3,5",
+				"maso_xa": 29065,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.52784327979,
+				"y": 10.2598991496987,
+				"geom": "0101000020C18C0D00782497BF67DA2141D066D5976F503141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.52784327979, 10.2598991496987]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 125,
+				"maso": "CCD_125",
+				"ten": "Cống Số 23",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3,5",
+				"maso_xa": 29068,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.550699660125,
+				"y": 10.2573073050868,
+				"geom": "0101000020C18C0D0050499D00F9ED214118FBCB0E574F3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.550699660125, 10.2573073050868]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 126,
+				"maso": "CCD_126",
+				"ten": "Cống Số 24",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3,5",
+				"maso_xa": 29068,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.552075015392,
+				"y": 10.256732641151,
+				"geom": "0101000020C18C0D005027A0A926EF2141D088D2DE174F3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.552075015392, 10.256732641151]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 127,
+				"maso": "CCD_127",
+				"ten": "Cống Số 25",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3,5",
+				"maso_xa": 29068,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.554520619435,
+				"y": 10.2558132770868,
+				"geom": "0101000020C18C0D00D80968023FF12141287E8CD9B24E3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.554520619435, 10.2558132770868]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 14,
+				"maso": "CCD_14",
+				"ten": "Cống Cây Da",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 5.6,
+				"chieucao_cuacong": 5.7,
+				"caotrinh_daycong": -3.2,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_04",
+				"nam_xaydung": 1991,
+				"dientich_khuquanly": 5937,
+				"dientich_nhaquanly": 74.7,
+				"nhiemvu_tuoi": 8060,
+				"nhiemvu_tieu": 8060,
+				"nhiemvu_nganman": 8060,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "5",
+				"maso_xa": 29035,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.503581203976,
+				"y": 10.1278666594275,
+				"geom": "0101000020C18C0D00B0D85FF6E7C5214170567D8E5D173141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.503581203976, 10.1278666594275]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 15,
+				"maso": "CCD_15",
+				"ten": "Cống Thị Trấn Giồng Trôm",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 1.7,
+				"chieucao_khaudo": 1.7,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.1,
+				"chieucao_cuacong": 2.1,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 400,
+				"nhiemvu_tieu": 400,
+				"nhiemvu_nganman": 400,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,7x1,7",
+				"maso_xa": 29032,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.505896581355,
+				"y": 10.1453842763159,
+				"geom": "0101000020C18C0D0000197377DAC72141F85C6DB5EF1E3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.505896581355, 10.1453842763159]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 16,
+				"maso": "CCD_16",
+				"ten": "Cống Bình Thành",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 1.7,
+				"chieucao_khaudo": 1.7,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 2.1,
+				"chieucao_cuacong": 2.1,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 1977,
+				"dientich_khuquanly": 814,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 620,
+				"nhiemvu_tieu": 620,
+				"nhiemvu_nganman": 620,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,7x1,7",
+				"maso_xa": 29032,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.505624584742,
+				"y": 10.1434065207085,
+				"geom": "0101000020C18C0D00082428DE9FC72141F8A9F1E2141E3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.505624584742, 10.1434065207085]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 19,
+				"maso": "CCD_19",
+				"ten": "Cống Qua Lộ K20",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 1.7,
+				"chieucao_khaudo": 1.7,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.1,
+				"chieucao_cuacong": 2.1,
+				"caotrinh_daycong": -1.7,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1996,
+				"dientich_khuquanly": 475.2,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 250,
+				"nhiemvu_tieu": 250,
+				"nhiemvu_nganman": 250,
+				"congsuat_tuoi": 1.47,
+				"congsuat_tieu": 4.26,
+				"ghichu": "1,7x1,7",
+				"maso_xa": 29017,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.53301909251,
+				"y": 10.1548588106898,
+				"geom": "0101000020C18C0D00E88C280D0EDF2141384ED1B10E233141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.53301909251, 10.1548588106898]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 20,
+				"maso": "CCD_20",
+				"ten": "Cống 9B",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 2.4,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1994,
+				"dientich_khuquanly": 3.94,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 200,
+				"nhiemvu_tieu": 200,
+				"nhiemvu_nganman": 200,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": 7.35,
+				"ghichu": "2",
+				"maso_xa": 29035,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.518656883028,
+				"y": 10.123400596525,
+				"geom": "0101000020C18C0D00D0AACFB5D2D22141E02D907073153141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.518656883028, 10.123400596525]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 21,
+				"maso": "CCD_21",
+				"ten": "Cống 2B",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 1.7,
+				"chieucao_khaudo": 1.7,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 2,
+				"chieucao_cuacong": 2.1,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1980,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 600,
+				"nhiemvu_tieu": 600,
+				"nhiemvu_nganman": 600,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "1,7*1,7",
+				"maso_xa": 29044,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.508017499494,
+				"y": 10.0934014565804,
+				"geom": "0101000020C18C0D0030C4B10EC6C921412831089C7A083141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.508017499494, 10.0934014565804]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 22,
+				"maso": "CCD_22",
+				"ten": "Cống Bình Lợi",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_03",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 1.7,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.1,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1998,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 150,
+				"nhiemvu_tieu": 150,
+				"nhiemvu_nganman": 150,
+				"congsuat_tuoi": 3.48,
+				"congsuat_tieu": 6.82,
+				"ghichu": "1,7",
+				"maso_xa": 29032,
+				"maso_huyen": 834,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.526720740687,
+				"y": 10.1206129885217,
+				"geom": "0101000020C18C0D0020EBE2B6BBD92141806ABC3441143141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.526720740687, 10.1206129885217]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 184,
+				"maso": "1fb7a30abe564e77a8b8a2a7934ee83a",
+				"ten": "999",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_01",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 999,
+				"chieucao_khaudo": 999,
+				"duongkinh_khaudo": 999,
+				"soluong_cuacong": 999,
+				"chieurong_cuacong": 999,
+				"chieucao_cuacong": 999,
+				"caotrinh_daycong": 999,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_03",
+				"nam_xaydung": 999,
+				"dientich_khuquanly": 999,
+				"dientich_nhaquanly": 999,
+				"nhiemvu_tuoi": 999,
+				"nhiemvu_tieu": 999,
+				"nhiemvu_nganman": 999,
+				"congsuat_tuoi": 999,
+				"congsuat_tieu": 999,
+				"ghichu": "999",
+				"maso_xa": 28762,
+				"maso_huyen": 829,
+				"last_updated": "2020-01-02T07:49:12.094",
+				"maso_nguoidung": "bdde299d0693fa3ffee390551c02613a",
+				"x": 106.6863157,
+				"y": 10.7877416,
+				"geom": "0101000020C18C0D00000F62F7AC602241C1F6DCA4B0343241"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.686315700589, 10.7877415996615]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 157,
+				"maso": "CCD_10",
+				"ten": "Cống 10 Cửa",
+				"maso_donviquanly": "CTTL_TRAM_1",
+				"maso_hethongthuyloi": "HTTL_02",
+				"maso_loaicong": "LOAI_3",
+				"chieungang_khaudo": null,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": 100,
+				"soluong_cuacong": 10,
+				"chieurong_cuacong": 1.2,
+				"chieucao_cuacong": 1.2,
+				"caotrinh_daycong": -2,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_02",
+				"nam_xaydung": 1990,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": 300,
+				"nhiemvu_tieu": 300,
+				"nhiemvu_nganman": 300,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "Ø1",
+				"maso_xa": 29119,
+				"maso_huyen": 836,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.634352723906,
+				"y": 10.1361512817418,
+				"geom": "0101000020C18C0D0082D32A3C99A85A406EC7EC9EB5452440"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [101.265316004484, -0.000915059614982]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 185,
+				"maso": "1f5cc3f31e1d2eba936c90b3c40b7359",
+				"ten": "12345",
+				"maso_donviquanly": "CTTL_TINH",
+				"maso_hethongthuyloi": "HTTL_14",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 111,
+				"chieucao_khaudo": 111,
+				"duongkinh_khaudo": 111,
+				"soluong_cuacong": 111,
+				"chieurong_cuacong": 111,
+				"chieucao_cuacong": 111,
+				"caotrinh_daycong": 111,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 111,
+				"dientich_khuquanly": 111,
+				"dientich_nhaquanly": 111,
+				"nhiemvu_tuoi": 111,
+				"nhiemvu_tieu": 111,
+				"nhiemvu_nganman": 111,
+				"congsuat_tuoi": 111,
+				"congsuat_tieu": 111,
+				"ghichu": "111",
+				"maso_xa": 28888,
+				"maso_huyen": 832,
+				"last_updated": "2020-01-02T07:47:09.269",
+				"maso_nguoidung": "bdde299d0693fa3ffee390551c02613a",
+				"x": 106.69923907022168,
+				"y": 10.782713070310162,
+				"geom": "0101000020C18C0D008EF1A437BB6B224165A4D8C288323241"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.699239070796, 10.7827130699802]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 186,
+				"maso": "f95187bed0f6bf5b7cba87d352e2e593",
+				"ten": "888",
+				"maso_donviquanly": "DEV",
+				"maso_hethongthuyloi": "HTTL_09",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 888,
+				"chieucao_khaudo": 888,
+				"duongkinh_khaudo": 888,
+				"soluong_cuacong": 888,
+				"chieurong_cuacong": 888,
+				"chieucao_cuacong": 888,
+				"caotrinh_daycong": 888,
+				"maso_vatlieucuacong": "VATLIEU_1",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_03",
+				"nam_xaydung": 888,
+				"dientich_khuquanly": 888,
+				"dientich_nhaquanly": 888,
+				"nhiemvu_tuoi": 888,
+				"nhiemvu_tieu": 888,
+				"nhiemvu_nganman": 888,
+				"congsuat_tuoi": 888,
+				"congsuat_tieu": 888,
+				"ghichu": "888",
+				"maso_xa": 28990,
+				"maso_huyen": 834,
+				"last_updated": "2020-01-03T02:41:51.985",
+				"maso_nguoidung": "bdde299d0693fa3ffee390551c02613a",
+				"x": 106.70642852783205,
+				"y": 10.787611344963645,
+				"geom": "0101000020C18C0D00A97ED573DC7122418773A209A9343241"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.706428528402, 10.787611344636]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 128,
+				"maso": "CCD_128",
+				"ten": "Cống Số 26",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3,5",
+				"maso_xa": 29068,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.563459754401,
+				"y": 10.2530777778122,
+				"geom": "0101000020C18C0D0098779C22E7F82141D89AE6BD864D3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.563459754401, 10.2530777778122]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 131,
+				"maso": "CCD_131",
+				"ten": "Cống Số 29",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3,5",
+				"maso_xa": 29074,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.583004905152,
+				"y": 10.244885868139,
+				"geom": "0101000020C18C0D00189E5E49A60922415096211E024A3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.583004905152, 10.244885868139]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 132,
+				"maso": "CCD_132",
+				"ten": "Cống Cái Cau",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 10,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 2,
+				"chieurong_cuacong": 10.7,
+				"chieucao_cuacong": 7,
+				"caotrinh_daycong": -4,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_03",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "10",
+				"maso_xa": 29068,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.567026867578,
+				"y": 10.2517599423452,
+				"geom": "0101000020C18C0D00A84E4073F5FB2141C086A7F7F54C3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.567026867578, 10.2517599423452]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 133,
+				"maso": "CCD_133",
+				"ten": "Cống Bà Nhuộm",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_2",
+				"chieungang_khaudo": 7.5,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 8.6,
+				"chieucao_cuacong": 5.7,
+				"caotrinh_daycong": -2.7,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_03",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "7,5",
+				"maso_xa": 29068,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.557490586703,
+				"y": 10.2555068257115,
+				"geom": "0101000020C18C0D003870CEE8C9F32141F085C9C4914E3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.557490586703, 10.2555068257115]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 134,
+				"maso": "CCD_134",
+				"ten": "Cống Số 1",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3",
+				"maso_xa": 29056,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.453960261413,
+				"y": 10.2894927951163,
+				"geom": "0101000020C18C0D00E8F21FD21D9B214108CE1931265D3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.453960261413, 10.2894927951163]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 135,
+				"maso": "CCD_135",
+				"ten": "Cống Số 2",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3",
+				"maso_xa": 29056,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.45664555216,
+				"y": 10.288712994611,
+				"geom": "0101000020C18C0D00205A647B6A9D2141D8817396D05C3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.45664555216, 10.288712994611]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 136,
+				"maso": "CCD_136",
+				"ten": "Cống Số 3",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 2,
+				"chieucao_khaudo": 3,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 2.4,
+				"chieucao_cuacong": 3,
+				"caotrinh_daycong": -1,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "2x3",
+				"maso_xa": 29056,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.461292941795,
+				"y": 10.287385864681,
+				"geom": "0101000020C18C0D00400AD74365A12141689A77EC3E5C3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.461292941795, 10.287385864681]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 137,
+				"maso": "CCD_137",
+				"ten": "Cống Số 5",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_1",
+				"chieungang_khaudo": 3,
+				"chieucao_khaudo": 3.5,
+				"duongkinh_khaudo": null,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 3.4,
+				"chieucao_cuacong": 3.5,
+				"caotrinh_daycong": -1.5,
+				"maso_vatlieucuacong": "VATLIEU_2",
+				"maso_hinhthucvanhanh": "HINHTHUC_1",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "3x3,5",
+				"maso_xa": 29056,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.477904381642,
+				"y": 10.2785342672036,
+				"geom": "0101000020C18C0D0030DD24E6A0AF2141806132F56F583141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.477904381642, 10.2785342672036]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 130,
+				"maso": "CCD_130",
+				"ten": "Cống Số 28",
+				"maso_donviquanly": "CTTL_TRAM_3",
+				"maso_hethongthuyloi": "HTTL_11",
+				"maso_loaicong": "LOAI_3",
+				"chieungang_khaudo": null,
+				"chieucao_khaudo": null,
+				"duongkinh_khaudo": 100,
+				"soluong_cuacong": 1,
+				"chieurong_cuacong": 1.2,
+				"chieucao_cuacong": 1.2,
+				"caotrinh_daycong": -0.5,
+				"maso_vatlieucuacong": "VATLIEU_4",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "9999",
+				"nam_xaydung": null,
+				"dientich_khuquanly": null,
+				"dientich_nhaquanly": null,
+				"nhiemvu_tuoi": null,
+				"nhiemvu_tieu": null,
+				"nhiemvu_nganman": null,
+				"congsuat_tuoi": null,
+				"congsuat_tieu": null,
+				"ghichu": "Ø1",
+				"maso_xa": 29074,
+				"maso_huyen": 835,
+				"last_updated": "2019-12-11T04:01:53.974",
+				"maso_nguoidung": "43df184020ac34a9b2136b784e96ae04",
+				"x": 106.577626414037,
+				"y": 10.2470510017957,
+				"geom": "0101000020C18C0D0098C420900A052241280F0B15F04A3141"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.577626414037, 10.2470510017957]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"id": 187,
+				"maso": "4aa1f088bd88b20208efc599a397dd73",
+				"ten": "777",
+				"maso_donviquanly": "DEV",
+				"maso_hethongthuyloi": "HTTL_02",
+				"maso_loaicong": "LOAI_3",
+				"chieungang_khaudo": 777,
+				"chieucao_khaudo": 777,
+				"duongkinh_khaudo": 777,
+				"soluong_cuacong": 777,
+				"chieurong_cuacong": 777,
+				"chieucao_cuacong": 777,
+				"caotrinh_daycong": 777,
+				"maso_vatlieucuacong": "VATLIEU_3",
+				"maso_hinhthucvanhanh": "HINHTHUC_2",
+				"maso_loaimay": "LOAIMAY_05",
+				"nam_xaydung": 777,
+				"dientich_khuquanly": 777,
+				"dientich_nhaquanly": 777,
+				"nhiemvu_tuoi": 777,
+				"nhiemvu_tieu": 777,
+				"nhiemvu_nganman": 777,
+				"congsuat_tuoi": 777,
+				"congsuat_tieu": 777,
+				"ghichu": "777",
+				"maso_xa": 28882,
+				"maso_huyen": 832,
+				"last_updated": "2020-01-03T02:56:35.608",
+				"maso_nguoidung": "bdde299d0693fa3ffee390551c02613a",
+				"x": 106.69218063354494,
+				"y": 10.80379917139925,
+				"geom": "0101000020C18C0D00956CFDE3A465224118947CD6A23B3241"
+			},
+			"geometry": {
+				"type": "Point",
+				"crs": {
+					"type": "name",
+					"properties": {
+						"name": "urn:ogc:def:crs:EPSG::4326"
+					}
+				},
+				"coordinates": [106.692180634137, 10.8037991710588]
+			}
+		}
+	]
+}

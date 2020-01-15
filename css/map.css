@@ -1,0 +1,423 @@
+html,body,#map { margin: 0; height: 100%; width: 100%; }
+
+/******************* style chung cho map************************ */
+.mouse_pointer{
+    cursor: pointer;
+}
+/********************************************/
+
+/********************** view_cong_hientrang_geo ********************* */
+.leaflet-tooltip.cong_label{
+    font-family: Roboto, Arial, sans-serif;
+    color:#912222;
+    text-shadow:  -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
+    font-size:11px;
+    text-align:center;
+    position: relative;
+	display: inline-block;
+    white-space: nowrap;
+    top: -35px;
+    left: -14px;
+	background-color: transparent;
+  border: transparent;
+  box-shadow: none;
+}
+.cong_symbol{
+    color: #912222;
+    font-size: 15px;
+
+    /* text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);  */
+
+}
+/********************************************/
+
+.icon-circles{
+	
+}
+
+/********************** view_trambom_hientrang_geo ********************* */
+.trambom_label{
+    font-family: Roboto, Arial, sans-serif;
+    color:#2521f3;
+    text-shadow:  -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
+    font-size:11px;
+    text-align:center;
+    position: relative;
+	display: inline-block;
+    white-space: nowrap;
+    top: -35px;
+    left: -30px;
+}
+.trambom_symbol{
+    color: #2521f3;
+    font-size: 25px;
+}
+/********************************************/
+
+
+
+
+
+
+
+/********************** cong_quyhoach_geo ********************* */
+.cong_qh_label{
+    font-family: Roboto, Arial, sans-serif;
+    color:#5ba35f;
+    text-shadow:  -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
+    font-size:11px;
+    text-align:center;
+    position: relative;
+	display: inline-block;
+    white-space: nowrap;
+    top: -35px;
+    left: -14px;
+}
+.cong_qh_symbol{
+    color: #5ba35f;
+    font-size: 15px;
+
+    /* text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);  */
+
+}
+/********************************************/
+
+
+
+/********************** view_dap_hientrang_geo ********************* */
+.dap_label{
+    font-family: Roboto, Arial, sans-serif;
+    color:#9d5ba3;
+    text-shadow:  -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
+    font-size:11px;
+    text-align:center;
+    position: relative;
+	display: inline-block;
+    white-space: nowrap;
+    top: -35px;
+    left: -14px;
+}
+.dap_symbol{
+    color: #9d5ba3;
+    font-size: 15px;
+    
+
+    /* text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);  */
+
+}
+/********************************************/
+
+
+
+
+
+
+
+/********************** default style**********************/
+.default-label {
+	position: relative;
+	display: inline-block;
+	white-space: nowrap;
+}
+.default-label-2 {
+    font-size: 14px;
+    top: -36px;
+    left: -22px;
+    text-shadow: 0 0 10px #ffffff;
+	color: #ff2121;
+}
+
+.default-label-info {
+    font-size: 30px;
+    top: -35px;
+    left: -14px;
+    text-shadow: 0 0 10px #ffffff;
+    line-height: 1.4;
+}
+
+
+.tramdo-label-info {
+    font-size: 14px;
+    top: -56px;
+    left: -46px;
+    text-shadow: 0 0 10px #ffffff;
+    line-height: 1.4;
+}
+
+.thucdia-label-info {
+    font-size: 14px;
+    top: -58px;
+    left: -22px;
+    text-shadow: 0 0 10px #ffffff;
+    line-height: 1.4;
+}
+
+
+/*******************************************/
+
+
+/******************** stlye gốc của anh Long ***********************/
+
+.label_date{
+    font-size: 14px;
+}
+
+.redpois{
+    color: red;
+}
+.redpois_label{
+    color: red;
+}
+
+.yellowpois_label{
+    color: yellow;
+ 
+}
+.yellowpois{
+    color: yellow;
+}
+
+.greenpois_label{
+    color: greenyellow;
+}
+.greenpois{
+    color: greenyellow;
+}
+
+.bluepois_label{
+    color: #43ffe0;
+}
+.bluepois{
+    color: #43ffe0;
+}
+
+.purplepois_label{
+    color: purple;
+}
+.purplepois{
+    color: purple;
+}
+.tramdo_symbol{
+    color: rgb(243, 110, 33);
+
+}
+/*******************************************/
+
+
+
+/* Style riêng cho độ mặn */
+
+.doman_label_lv1{
+    color: #ff00c8;
+}
+.doman_pin_lv1{
+    color: #ff00c8;
+}
+
+.doman_label_lv2{
+    color: #ff6cdf;
+}
+.doman_pin_lv2{
+    color: #ff6cdf;
+}
+
+.doman_label_lv3{
+    color: #ffaaed;
+}
+.doman_pin_lv3{
+    color: #ffaaed;
+}
+
+.doman_label_lv4{
+    color: #ffe2f9;
+}
+.doman_pin_lv4{
+    color: #ffe2f9;
+}
+
+/* Style riêng cho mực nước */
+
+.mucnuoc_label_lv1{
+    color: #00dcff;
+}
+.mucnuoc_pin_lv1{
+    color: #00dcff;
+}
+
+.mucnuoc_label_lv2{
+    color: #6cebff;
+}
+.mucnuoc_pin_lv2{
+    color: #6cebff;
+}
+
+.mucnuoc_label_lv3{
+    color: #c7f7ff;
+}
+.mucnuoc_pin_lv3{
+    color: #c7f7ff;
+}
+
+.mucnuoc_label_lv4{
+    color: #e9fafd;
+}
+.mucnuoc_pin_lv4{
+    color: #e9fafd;
+}
+
+
+/* Style vị trí legend */
+
+.legend_v2{
+    float: right;
+    right: 0;
+    top: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-right: 15px;
+    z-index: 1000;
+    position: relative;
+}
+
+/* Style cống cố định view_cong_hientrang_geo */
+.cong_pin{
+    color: rgb(103, 255, 255);
+
+}
+.cong_label{
+    font-family: Roboto, Arial, sans-serif;
+    color:rgb(32, 32, 32);
+    text-shadow: 1px 1px 2px #ffffff;
+    font-size:11px;
+    text-align:center;
+    top: -36px;
+    left: -22px;
+}
+
+
+
+/* ****************** style của  point *********************** */
+.map-marker{
+  text-align: center;
+  position: absolute;
+  /*overflow: hidden;*/
+  background-repeat: no-repeat;
+  background-position: center;  
+  /*
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  */
+  /* line-height: 22pt; */
+  /*font-size: 22px;*/
+  font-family: 'FontAwesome';
+  filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.5)); 
+}
+/* ****************************************** */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#place {
+    z-index: 9998;
+    height: 72px;
+    min-height: 10px;
+    position: absolute;
+    width: 384px;
+    bottom: 10px;
+    left:calc(50% - 192px);
+}
+
+#place > .placeicon {
+    height: 64px;
+    width: 96px;
+    margin: 4px;
+    position: absolute;
+    background-size: 96px 64px;
+    overflow: hidden;
+}
+#place > .placeclose {
+    bottom: 3px;
+    right: 3px;
+    position: absolute;
+}
+
+#place > .placename {
+    font-size: 12px;
+    line-height: 12px;
+    height: 48px;
+    padding: 12px;
+    margin-left: 96px;
+    font-weight:bold;
+}
+
+#place > .placename:hover {
+    text-decoration: underline;
+}
+
+#place > .placelocation {
+    font-size: 12px;
+    line-height: 12px;
+    height: 24px;
+    margin-left: 108px;
+    font-weight:bold;
+    color: rgb(150, 150, 150);
+}
+#place > .placelocation:hover {
+    text-decoration: underline;
+}
+
+.slide-menu-logo{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 62px;
+    border-top: 1px solid #ececec;
+}
+.slide-menu-logo > .logo{
+    margin: 1px;
+    width: 57px;
+    height: 57px;
+    outline:none;
+}
+.slide-menu-logo > .logo:hover {
+    margin: 1px;
+    width: 57px;
+    border: 1px solid #ececec;
+}
+
+.voice-active {
+    background: #3f51b5 !important;
+    color: #fff !important;
+}
+
+
+ #cover {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 100%;
+        opacity: 0.93;
+        text-align: center;
+        font-family: sans-serif;
+        background-color: #3e3e3e;
+        color: white;
+        z-index: 100000;
+      }
