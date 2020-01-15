@@ -21,11 +21,13 @@
 <div id="map"></div>
 <script>
 
-var map = L.map('map',{
+map = L.map('map',{
 	layers: [],
 	center: new L.LatLng(10.1323395,106.5192586),
 	zoom: 11,
 });
+
+
 
 var tilemap_srv='http://girs.vn:8081/geoserver15/gwc/service/tms/1.0.0/thuyloibentre%3Athuyloibentre_bandonen_group@EPSG%3A900913@png/{z}/{x}/{-y}.png';
 
@@ -37,13 +39,11 @@ var hideLabel = function(label){ label.labelObject.style.opacity = 0;};
 var showLabel = function(label){ label.labelObject.style.opacity = 1;};
 labelEngine = new labelgun.default(hideLabel, showLabel);
 
-//var id = 0;
-//var labels = [];
-	
-//Add the markers to the map
+var i = 0;
 var view_cong_hientrang_geo_url='view_cong_hientrang_geo.json';	
 var view_cong_hientrang_geo = new L.GeoJSON.AJAX(view_cong_hientrang_geo_url, {
 	pointToLayer: function (feat, latlng) {
+    //Phải tạo biến riêng do không chèn trực tiếp class css vào tooltip được
     var label_txt='<span class="cong_label"><b>'+feat.properties.ten+'</b></span>';
 		return L.marker(latlng, {
 			icon: L.divIcon({
@@ -59,22 +59,36 @@ var view_cong_hientrang_geo = new L.GeoJSON.AJAX(view_cong_hientrang_geo_url, {
 			fname: feat.properties.ten,
 			tblname: 'view_cong_hientrang_geo',
 			permanent: true,
-		}).bindTooltip(label_txt, {permanent: true, direction: "center", opacity: 0}).openTooltip();	
+		})
+    //opacity: 0 để ẩn đi tooltip luxubu ban đầu =))
+    .bindTooltip(label_txt, {permanent: true, direction: "center", opacity: 0}).openTooltip();
 	}
 });
 
 view_cong_hientrang_geo.addTo(map);
 
+
 map.on("zoomend", function(){
   resetLabels(view_cong_hientrang_geo);
 });
 
-resetLabels(view_cong_hientrang_geo);
+
+var callBack = function () {
+    console.log("Map successfully loaded");
+    resetLabels(view_cong_hientrang_geo);
+};
+map.whenReady(callBack);
+
+setTimeout(function () {
+  //map.setZoom(12);
+  resetLabels(view_cong_hientrang_geo);
+}, 1000)
+
 
 function resetLabels(markers) {
   var i = 0;
-  markers.eachLayer(function(label){
-    addLabel(label, ++i);
+  markers.eachLayer(function(layer){
+    addLabel(layer, ++i);
   });
   labelEngine.update();
 }
