@@ -17,7 +17,7 @@
 <script>
 
 map = L.map('map').setView([10.1323395,106.5192586], 11);
-var tilemap_srv='http://girs.vn:8081/geoserver15/gwc/service/tms/1.0.0/thuyloibentre%3Athuyloibentre_bandonen_group@EPSG%3A900913@png/{z}/{x}/{-y}.png';
+var tilemap_srv='https://{s}.dothanhlong.org/basemap/zxy/t2/thuyloibentre:thuyloibentre_bandonen_group/{z}/{x}/{-y}.png';
 
 L.tileLayer(tilemap_srv, {
     attribution: 'Map tiles by <a href="http://thuyloibentre.com" target="_blank">thuyloibentre.com</a>.'
